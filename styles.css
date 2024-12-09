@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 0;
+}
+
+#app {
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    font-size: 16px;
+    width: 200px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#weatherDisplay {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+i.wi {
+    font-size: 100px;
+    margin: 10px 0;
+}
+
+#temperature {
+    font-size: 24px;
+}
